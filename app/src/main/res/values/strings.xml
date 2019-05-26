@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinCours</string>
+    <string name="title_text">Texte</string>
+    <string name="title_commentaires">Commentaires</string>
+    <string name="title_author">Auteur</string>
+</resources>
